@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a FiveM & Web developer from Slovenia.<br>Im starting to work with AI and React.<br>Fun fact: The first computer bug was an actual bug
+hi 
 
 
 ## 🌐 Socials:
